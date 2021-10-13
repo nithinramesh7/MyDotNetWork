@@ -1,0 +1,10 @@
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\bin\Debug\netstandard2.0\ConceptArchitect.Utils.deps.json
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\bin\Debug\netstandard2.0\ConceptArchitect.Utils.dll
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\bin\Debug\netstandard2.0\ConceptArchitect.Utils.pdb
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\obj\Debug\netstandard2.0\ConceptArchitect.Utils.csproj.AssemblyReference.cache
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\obj\Debug\netstandard2.0\ConceptArchitect.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\obj\Debug\netstandard2.0\ConceptArchitect.Utils.AssemblyInfoInputs.cache
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\obj\Debug\netstandard2.0\ConceptArchitect.Utils.AssemblyInfo.cs
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\obj\Debug\netstandard2.0\ConceptArchitect.Utils.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\obj\Debug\netstandard2.0\ConceptArchitect.Utils.dll
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Utils\obj\Debug\netstandard2.0\ConceptArchitect.Utils.pdb

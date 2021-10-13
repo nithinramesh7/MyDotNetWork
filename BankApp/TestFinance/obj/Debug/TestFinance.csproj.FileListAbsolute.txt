@@ -1,0 +1,14 @@
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\ConceptArchitect.Finance.dll
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\ConceptArchitect.Finance.pdb
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DotNet2021\my-work\UnitTest01\TestFinance\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DotNet2021\my-work\UnitTest01\TestFinance\obj\Debug\TestFinance.csproj.AssemblyReference.cache
+D:\DotNet2021\my-work\UnitTest01\TestFinance\obj\Debug\TestFinance.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\UnitTest01\TestFinance\obj\Debug\TestFinance.csproj.CopyComplete
+D:\DotNet2021\my-work\UnitTest01\TestFinance\obj\Debug\TestFinance.dll
+D:\DotNet2021\my-work\UnitTest01\TestFinance\obj\Debug\TestFinance.pdb

@@ -1,0 +1,9 @@
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\bin\Debug\netstandard2.0\ConceptArchitect.Finance.deps.json
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\bin\Debug\netstandard2.0\ConceptArchitect.Finance.dll
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\bin\Debug\netstandard2.0\ConceptArchitect.Finance.pdb
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\obj\Debug\netstandard2.0\ConceptArchitect.Finance.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\obj\Debug\netstandard2.0\ConceptArchitect.Finance.AssemblyInfoInputs.cache
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\obj\Debug\netstandard2.0\ConceptArchitect.Finance.AssemblyInfo.cs
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\obj\Debug\netstandard2.0\ConceptArchitect.Finance.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\obj\Debug\netstandard2.0\ConceptArchitect.Finance.dll
+D:\DotNet2021\my-work\UnitTest01\ConceptArchitect.Finance\obj\Debug\netstandard2.0\ConceptArchitect.Finance.pdb
