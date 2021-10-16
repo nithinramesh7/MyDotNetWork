@@ -1,0 +1,10 @@
+D:\DotNet2021\my-work\WPFworks\WPFworks\bin\Debug\WPFworks.exe.config
+D:\DotNet2021\my-work\WPFworks\WPFworks\bin\Debug\WPFworks.exe
+D:\DotNet2021\my-work\WPFworks\WPFworks\bin\Debug\WPFworks.pdb
+D:\DotNet2021\my-work\WPFworks\WPFworks\obj\Debug\WPFworks.csproj.AssemblyReference.cache
+D:\DotNet2021\my-work\WPFworks\WPFworks\obj\Debug\WPFworks.Form1.resources
+D:\DotNet2021\my-work\WPFworks\WPFworks\obj\Debug\WPFworks.Properties.Resources.resources
+D:\DotNet2021\my-work\WPFworks\WPFworks\obj\Debug\WPFworks.csproj.GenerateResource.cache
+D:\DotNet2021\my-work\WPFworks\WPFworks\obj\Debug\WPFworks.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\WPFworks\WPFworks\obj\Debug\WPFworks.exe
+D:\DotNet2021\my-work\WPFworks\WPFworks\obj\Debug\WPFworks.pdb
