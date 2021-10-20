@@ -1,0 +1,15 @@
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\App.g.cs
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\Wpf01Xaml_MarkupCompile.cache
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\bin\Debug\Wpf01Xaml.exe.config
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\bin\Debug\Wpf01Xaml.exe
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\bin\Debug\Wpf01Xaml.pdb
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\MainWindow.g.cs
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\Wpf01Xaml_MarkupCompile.lref
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\MainWindow.baml
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\Wpf01Xaml.g.resources
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\Wpf01Xaml.Properties.Resources.resources
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\Wpf01Xaml.csproj.GenerateResource.cache
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\Wpf01Xaml.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\Wpf01Xaml.exe
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\Wpf01Xaml.pdb
+D:\DotNet2021\my-work\WPFworks\Wpf01Xaml\obj\Debug\GeneratedInternalTypeHelper.g.cs

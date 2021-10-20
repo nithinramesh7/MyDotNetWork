@@ -40,16 +40,24 @@ namespace WPFworks
 
         private void CalculateBtn_Click(object sender, EventArgs e)
         {
-            var principal=double.Parse(principalTextbox.Text);
-            var rate = double.Parse(RateTextbox.Text);
-            var period = double.Parse(periodTextbox.Text);
+            if(principalTextbox.Text == null || RateTextbox.Text == null || periodTextbox.Text == null)
+            {
+                MessageBox.Show("please enter the value");
+            }
+            else
+            {
+                var principal = double.Parse(principalTextbox.Text);
+                var rate = double.Parse(RateTextbox.Text);
+                var period = double.Parse(periodTextbox.Text);
 
-            var interest = (principal * rate * period) / 1200;
+                var interest = (principal * rate * period) / 1200;
 
-            var amount = interest + principal;
-            interestTextbox.Text = interest.ToString();
-            AmountTextbox.Text = amount.ToString();
-            
+                var amount = interest + principal;
+                interestTextbox.Text = interest.ToString();
+                AmountTextbox.Text = amount.ToString();
+
+            }
+
         }
 
         private void principalTextbox_TextChanged(object sender, EventArgs e)
