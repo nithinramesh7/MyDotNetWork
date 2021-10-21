@@ -1,0 +1,14 @@
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\MainWindow.g.cs
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\App.g.cs
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\BookApp_MarkupCompile.cache
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\BookApp_MarkupCompile.lref
+D:\DotNet2021\my-work\WPFworks\BookApp\bin\Debug\BookApp.exe.config
+D:\DotNet2021\my-work\WPFworks\BookApp\bin\Debug\BookApp.exe
+D:\DotNet2021\my-work\WPFworks\BookApp\bin\Debug\BookApp.pdb
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\MainWindow.baml
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\BookApp.g.resources
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\BookApp.Properties.Resources.resources
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\BookApp.csproj.GenerateResource.cache
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\BookApp.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\BookApp.exe
+D:\DotNet2021\my-work\WPFworks\BookApp\obj\Debug\BookApp.pdb
