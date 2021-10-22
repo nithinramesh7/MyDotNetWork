@@ -1,0 +1,7 @@
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect1.Wpf\bin\Debug\ConceptArchitect1.Wpf.dll
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect1.Wpf\bin\Debug\ConceptArchitect1.Wpf.pdb
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect1.Wpf\obj\Debug\ConceptArchitect1.Wpf.Properties.Resources.resources
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect1.Wpf\obj\Debug\ConceptArchitect1.Wpf.csproj.GenerateResource.cache
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect1.Wpf\obj\Debug\ConceptArchitect1.Wpf.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect1.Wpf\obj\Debug\ConceptArchitect1.Wpf.dll
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect1.Wpf\obj\Debug\ConceptArchitect1.Wpf.pdb

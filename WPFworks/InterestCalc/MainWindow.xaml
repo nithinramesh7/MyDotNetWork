@@ -1,0 +1,60 @@
+﻿<Window x:Class="InterestCalc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterestCalc"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid ShowGridLines="True" >
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"/>
+            <ColumnDefinition Width="2*"/>
+
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Interest Calculator" 
+                       TextAlignment="Center"
+                       FontSize="20"
+                       FontWeight="Bold"
+                       Grid.Row="0"
+                       Grid.ColumnSpan="4"
+                       />
+
+        <TextBlock Background="LightGray" x:Name="statusLabel" Text="Ready"/>
+
+
+
+        <TextBlock Text="Principal" TextAlignment="Center" Grid.Row="1" />
+        <TextBox x:Name="principalTextBox" Grid.Row="1" Grid.Column="1" />
+
+        <TextBlock Text="Rate (pa)" TextAlignment="Center" Grid.Row="2"/>
+        <TextBox x:Name="rateTextBox" Grid.Row="2" Grid.Column="1" />
+
+        <TextBlock Text="Period (months)" TextAlignment="Center" Grid.Row="3"/>
+        <TextBox x:Name="periodTextBox" Grid.Row="3" Grid.Column="1" />
+
+            <TextBlock/>
+        <Button Click="CalculateInterest" Content="Calculate" Grid.Row="4" />
+
+        <TextBlock Text="Interest" TextAlignment="Center" Grid.Row="5"/>
+        <TextBox x:Name="interestTextBox" IsReadOnly="True" Grid.Row="5" Grid.Column="1" />
+
+        <TextBlock Text="Amount" TextAlignment="Center" Grid.Row="6" VerticalAlignment="Center"/>
+        <TextBox x:Name="amountTextBox" IsReadOnly="True" Grid.Row="6" Grid.Column="1"/>
+
+
+
+
+        
+
+    </Grid>
+</Window>

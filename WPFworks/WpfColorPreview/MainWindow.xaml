@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfColorPreview.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfColorPreview"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock FontSize="30" FontWeight="Black" Foreground="OrangeRed" TextAlignment="Left">Color Preview</TextBlock>
+        <UniformGrid Columns="2" MinHeight="50" Margin="75,50,100,2">
+            <TextBlock Margin="49,25,53,2"  FontSize="30"  Foreground="Black" TextAlignment="Left" Height="62">Color Name</TextBlock>
+            <TextBox  x:Name="cname" BorderThickness="3" FontSize="30" Margin="4" ></TextBox>
+        </UniformGrid>
+        <UniformGrid Columns="2" MinHeight="50" Margin="75,50,100,2">
+            <Button x:Name="btnpre" Margin="48,0,-0.2,0" FontSize="25" Click="btnPreview">Preview</Button>
+            <CheckBox HorizontalAlignment="Center" FontSize="25" Checked="checkbx"  Margin="40.2,0,72.6,0" Width="196">Auto Preview</CheckBox>
+        </UniformGrid>
+        <UniformGrid MinHeight="50"  Margin="2,10,19.6,2" >
+            <TextBlock x:Name="preview" HorizontalAlignment="Center" FontSize="75" Height="99" Margin="137,0,115,0" Width="320" > Preview</TextBlock>
+        </UniformGrid>
+    </StackPanel>
+</Window>

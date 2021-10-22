@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfCurrency.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:util="clr-namespace:ConceptArchitect1.Wpf;assembly=ConceptArchitect1.Wpf"
+        xmlns:local="clr-namespace:WpfCurrency"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="Displaying Currency using Value Property"  FontSize="28" TextAlignment="Center"/>
+        <TextBlock FontSize="30" FontWeight="DemiBold"  Text="{util:Currency Value=2000,Symbol=$}"/>
+        <TextBlock FontSize="30" FontWeight="DemiBold"  Text="{util:Currency Value=4000}"/>
+    </StackPanel>
+</Window>

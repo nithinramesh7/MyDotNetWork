@@ -1,0 +1,14 @@
+D:\DotNet2021\my-work\WPFworks\InterestCalc\bin\Debug\InterestCalc.exe.config
+D:\DotNet2021\my-work\WPFworks\InterestCalc\bin\Debug\InterestCalc.exe
+D:\DotNet2021\my-work\WPFworks\InterestCalc\bin\Debug\InterestCalc.pdb
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\MainWindow.g.cs
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\App.g.cs
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\InterestCalc_MarkupCompile.cache
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\InterestCalc_MarkupCompile.lref
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\MainWindow.baml
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\InterestCalc.g.resources
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\InterestCalc.Properties.Resources.resources
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\InterestCalc.csproj.GenerateResource.cache
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\InterestCalc.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\InterestCalc.exe
+D:\DotNet2021\my-work\WPFworks\InterestCalc\obj\Debug\InterestCalc.pdb

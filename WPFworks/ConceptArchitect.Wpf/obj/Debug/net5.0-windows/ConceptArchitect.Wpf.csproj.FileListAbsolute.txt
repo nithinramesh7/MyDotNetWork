@@ -1,0 +1,12 @@
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\bin\Debug\net5.0-windows\ConceptArchitect.Wpf.deps.json
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\bin\Debug\net5.0-windows\ConceptArchitect.Wpf.dll
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\bin\Debug\net5.0-windows\ref\ConceptArchitect.Wpf.dll
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\bin\Debug\net5.0-windows\ConceptArchitect.Wpf.pdb
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\obj\Debug\net5.0-windows\ConceptArchitect.Wpf.csproj.AssemblyReference.cache
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\obj\Debug\net5.0-windows\ConceptArchitect.Wpf.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\obj\Debug\net5.0-windows\ConceptArchitect.Wpf.AssemblyInfoInputs.cache
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\obj\Debug\net5.0-windows\ConceptArchitect.Wpf.AssemblyInfo.cs
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\obj\Debug\net5.0-windows\ConceptArchitect.Wpf.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\obj\Debug\net5.0-windows\ConceptArchitect.Wpf.dll
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\obj\Debug\net5.0-windows\ref\ConceptArchitect.Wpf.dll
+D:\DotNet2021\my-work\WPFworks\ConceptArchitect.Wpf\obj\Debug\net5.0-windows\ConceptArchitect.Wpf.pdb

@@ -1,0 +1,15 @@
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\bin\Debug\WpfColorPreview.exe.config
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\bin\Debug\WpfColorPreview.exe
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\bin\Debug\WpfColorPreview.pdb
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview.csproj.AssemblyReference.cache
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\MainWindow.g.cs
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\App.g.cs
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview_MarkupCompile.cache
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview_MarkupCompile.lref
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\MainWindow.baml
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview.g.resources
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview.Properties.Resources.resources
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview.csproj.GenerateResource.cache
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview.csproj.CoreCompileInputs.cache
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview.exe
+D:\DotNet2021\my-work\WPFworks\WpfColorPreview\obj\Debug\WpfColorPreview.pdb

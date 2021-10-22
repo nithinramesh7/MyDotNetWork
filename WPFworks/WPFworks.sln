@@ -9,6 +9,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf01Xaml", "Wpf01Xaml\Wpf0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookApp", "BookApp\BookApp.csproj", "{47229436-FBE6-4F6E-804C-2F30F951FD46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestCalc", "InterestCalc\InterestCalc.csproj", "{F21550BC-FE68-409E-ADC9-315C20AA69A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfColorPreview", "WpfColorPreview\WpfColorPreview.csproj", "{01AA277B-060F-433B-A045-C2DF031F2B47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCurrency", "WpfCurrency\WpfCurrency.csproj", "{4AC3BB4F-E17E-4151-8A69-2EE01AF7A2CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CurrencyWpf", "CurrencyWpf", "{9395E2A1-D6B4-44A0-844B-5776A78F8435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptArchitect1.Wpf", "ConceptArchitect1.Wpf\ConceptArchitect1.Wpf.csproj", "{77A3A75F-DD2A-43DD-B0A4-E72F55BCE94E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,9 +37,29 @@ Global
 		{47229436-FBE6-4F6E-804C-2F30F951FD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47229436-FBE6-4F6E-804C-2F30F951FD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47229436-FBE6-4F6E-804C-2F30F951FD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21550BC-FE68-409E-ADC9-315C20AA69A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21550BC-FE68-409E-ADC9-315C20AA69A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21550BC-FE68-409E-ADC9-315C20AA69A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21550BC-FE68-409E-ADC9-315C20AA69A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01AA277B-060F-433B-A045-C2DF031F2B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AA277B-060F-433B-A045-C2DF031F2B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AA277B-060F-433B-A045-C2DF031F2B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AA277B-060F-433B-A045-C2DF031F2B47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC3BB4F-E17E-4151-8A69-2EE01AF7A2CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC3BB4F-E17E-4151-8A69-2EE01AF7A2CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC3BB4F-E17E-4151-8A69-2EE01AF7A2CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC3BB4F-E17E-4151-8A69-2EE01AF7A2CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A3A75F-DD2A-43DD-B0A4-E72F55BCE94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A3A75F-DD2A-43DD-B0A4-E72F55BCE94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A3A75F-DD2A-43DD-B0A4-E72F55BCE94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A3A75F-DD2A-43DD-B0A4-E72F55BCE94E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4AC3BB4F-E17E-4151-8A69-2EE01AF7A2CA} = {9395E2A1-D6B4-44A0-844B-5776A78F8435}
+		{77A3A75F-DD2A-43DD-B0A4-E72F55BCE94E} = {9395E2A1-D6B4-44A0-844B-5776A78F8435}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DE0AB193-7AB2-47D7-BE22-CCEBC0F48026}
